@@ -1,0 +1,8 @@
+[package]
+name = "sayali-hello-world"
+version = "1.0.0"
+edition = "2023"
+authors = ["gaiksaya"]
+description = "Test client"
+repository = "https://github.com/gaiksaya/rust-hello-world"
+license = "Apache-2.0"
